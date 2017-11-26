@@ -14,4 +14,3 @@ console.log()
 
 function divide(a,b) {return a/b}
 divide()
-console.log()
