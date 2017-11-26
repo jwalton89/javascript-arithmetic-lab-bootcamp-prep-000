@@ -12,6 +12,6 @@ multiply()
 function divide(a,b) {return a/b}
 divide()
 
-var number = 746
+var n = 746
 function inc(n) {return number += 3 }
 inc()
