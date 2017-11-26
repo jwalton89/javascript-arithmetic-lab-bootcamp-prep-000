@@ -48,4 +48,4 @@ makeInt(n)
 function preserveDecimal(n) {
   parseFloat(n,10)
 }
-preserveDecimal()
+preserveDecimal(n)
