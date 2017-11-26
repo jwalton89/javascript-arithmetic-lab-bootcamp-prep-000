@@ -1,5 +1,2 @@
-var number = 1
-function one() {
-  add(number,2)
-}
+var one = add(1,2)
 console.log(one)
