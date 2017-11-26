@@ -24,7 +24,7 @@ var n = 3
 function inc(n) {
   return n += 1
 }
-inc(n)
+inc()
 
 
 function makeInt(n) {parseInt(n,10)}
