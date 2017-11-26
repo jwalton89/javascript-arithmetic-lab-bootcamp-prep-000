@@ -18,6 +18,7 @@ function inc(n) {
 }
 inc(n)
 console.log(n)
+console.log(n)
 
 function dec(n) {
   console.log(n--)
