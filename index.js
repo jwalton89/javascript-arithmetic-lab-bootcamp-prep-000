@@ -12,7 +12,7 @@ multiply()
 function divide(a,b) {return a/b}
 divide()
 
-var n = 746
+var n = '746'
 function inc(n) {
   console.log(n++)
 }
@@ -29,5 +29,5 @@ makeInt()
 function preserveDecimal(n) {parseFloat(n,10)}
 preserveDecimal()
 
-function makeInt(n) {parseInt('n',10)}
+function makeInt(n) {parseInt(n,10)}
 makeInt()
