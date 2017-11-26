@@ -7,3 +7,11 @@ console.log()
 function subtract(a,b) {return a-b}
 subtract()
 console.log()
+
+function mulitply(a,b) {return a*b}
+multiply()
+console.log()
+
+function divide(a,b) {return a/b}
+divide()
+console.log()
