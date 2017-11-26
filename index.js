@@ -22,3 +22,6 @@ function dec(n) {
   console.log(n--)
 }
 dec(n)
+
+function makeInt(n) {parseInt(n,10)}
+makeInt()
