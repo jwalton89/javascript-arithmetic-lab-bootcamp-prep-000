@@ -14,4 +14,4 @@ divide()
 
 var n = 746
 function inc(n) {return n++}
-parseInt(n)
+inc()
