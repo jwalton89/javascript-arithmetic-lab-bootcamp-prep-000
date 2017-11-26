@@ -35,7 +35,7 @@ dec()
 function makeInt(n,b) {
   return parseInt(n,b)
 }
-makeInt(n)
+makeInt(n,b)
 
 
 
