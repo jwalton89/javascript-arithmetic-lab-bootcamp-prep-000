@@ -20,7 +20,7 @@ function divide(a,b) {
 }
 divide()
 
-var n = 3
+var n = 3.5555555555
 function inc(n) {
   return n += 1
 }
@@ -30,6 +30,14 @@ function dec(n) {
   return n -= 1
 }
 dec()
+
+
+
+
+
+
+
+
 
 function makeInt(n) {parseInt(n,10)}
 makeInt()
