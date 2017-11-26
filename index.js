@@ -32,10 +32,11 @@ function dec(n) {
 }
 dec()
 
-function makeInt(n,b) {
-  return parseInt(n,b)
+function makeInt(a) {
+  return parseInt(a,10)
 }
-makeInt(n,b)
+makeInt(a)
+
 
 
 
