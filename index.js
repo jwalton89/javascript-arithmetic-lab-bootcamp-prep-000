@@ -14,7 +14,7 @@ divide()
 
 var n = 746
 function inc() {
-  number += 1)
+  number += 1
 }
 inc()
 console.log(n)
