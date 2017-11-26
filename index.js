@@ -11,3 +11,7 @@ multiply()
 
 function divide(a,b) {return a/b}
 divide()
+
+var number = 10
+function inc(n) {return number++ }
+inc()
