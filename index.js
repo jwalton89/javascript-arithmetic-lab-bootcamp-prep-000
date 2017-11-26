@@ -20,7 +20,7 @@ function divide(a,b) {
 }
 divide()
 
-var n = parseInt(3.5)
+var n = parseInt('3.5')
 function inc(n) {
   return n += 1
 }
