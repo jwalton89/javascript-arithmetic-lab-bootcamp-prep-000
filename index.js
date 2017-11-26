@@ -14,7 +14,7 @@ divide()
 
 var n = 3
 function inc(n) { return
-  n += 5
+  n++
 }
 inc(n)
 
