@@ -22,7 +22,7 @@ divide()
 
 var n = 3
 function inc(n) {
-  return n += 5
+  return n += 1
 }
 inc(n)
 
