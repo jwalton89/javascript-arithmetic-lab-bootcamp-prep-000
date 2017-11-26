@@ -13,7 +13,7 @@ function divide(a,b) {return a/b}
 divide()
 
 var n = 3
-function inc() {
+function inc(n) {
   n += 5
 }
 inc()
