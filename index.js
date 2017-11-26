@@ -21,7 +21,6 @@ function divide(a,b) {
 divide()
 
 var n = 3.5
-var b = 10
 function inc(n) {
   return n += 1
 }
