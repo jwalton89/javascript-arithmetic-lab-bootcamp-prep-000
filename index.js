@@ -20,7 +20,7 @@ function divide(a,b) {
 }
 divide()
 
-var n = 3.5
+var n = parseInt(3.5)
 function inc(n) {
   return n += 1
 }
@@ -32,9 +32,9 @@ function dec(n) {
 dec()
 
 function makeInt(n) {
-  return parseInt('n',10)
+  return n
 }
-makeInt()
+makeInt(n)
 
 
 
