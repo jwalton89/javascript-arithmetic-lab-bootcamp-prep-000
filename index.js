@@ -20,7 +20,7 @@ function divide(a,b) {
 }
 divide()
 
-var n = 3.5555555555
+var n = 3.5
 function inc(n) {
   return n += 1
 }
