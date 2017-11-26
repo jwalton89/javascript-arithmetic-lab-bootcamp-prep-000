@@ -13,10 +13,10 @@ function divide(a,b) {return a/b}
 divide()
 
 var n = 746
-function inc() {
-  n += 1
+function inc(n) {
+  n++
 }
-inc()
+inc(n)
 console.log(n)
 
 function dec(n) {
