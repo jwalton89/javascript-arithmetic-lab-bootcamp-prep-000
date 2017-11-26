@@ -13,8 +13,8 @@ function divide(a,b) {return a/b}
 divide()
 
 var n = 3
-function inc(n) { return
-  n += 5
+function inc(n) { 
+  return n += 5
 }
 inc(n)
 
