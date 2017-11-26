@@ -15,4 +15,4 @@ divide()
 var n = 746
 function inc(n) {console.log(n++)
 }
-inc()
+inc(n)
