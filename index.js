@@ -1,19 +1,27 @@
 var a = 1275
 var b = 1
-function add(a,b) {return a+b}
+function add(a,b) {
+  return a+b
+}
 add()
 
-function subtract(a,b) {return a-b}
+function subtract(a,b) {
+  return a-b
+}
 subtract()
 
-function multiply(a,b) {return a*b}
+function multiply(a,b) {
+  return a*b
+}
 multiply()
 
-function divide(a,b) {return a/b}
+function divide(a,b) {
+  return a/b
+}
 divide()
 
 var n = 3
-function inc(n) { 
+function inc(n) {
   return n += 5
 }
 inc(n)
