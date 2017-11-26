@@ -12,7 +12,7 @@ multiply()
 function divide(a,b) {return a/b}
 divide()
 
-var n = '746'
+var n = 746
 function inc(n) {
   console.log(n++)
 }
