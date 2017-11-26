@@ -26,6 +26,10 @@ function inc(n) {
 }
 inc()
 
+function dec(n) {
+  return n += 1
+}
+dec()
 
 function makeInt(n) {parseInt(n,10)}
 makeInt()
