@@ -25,7 +25,6 @@ function inc(n) {
   return n += 5
 }
 inc(n)
-inc()
 
 
 function makeInt(n) {parseInt(n,10)}
